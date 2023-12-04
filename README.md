@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harith Dimantha</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+intelligence+(AI);Student+at+Uva+wellassa+University+of+Sri+Lanka;Web+developer;article+writing;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <h3 align="center">Student at Uva Wellassa University of Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Programming, Web developing**
